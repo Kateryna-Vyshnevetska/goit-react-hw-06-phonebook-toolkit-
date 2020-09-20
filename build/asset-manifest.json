@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Kateryna-Vyshnevetska/goit-react-hw-06-phonebook-toolkit-/static/css/main.3584b212.chunk.css",
+    "main.js": "/Kateryna-Vyshnevetska/goit-react-hw-06-phonebook-toolkit-/static/js/main.c096167a.chunk.js",
+    "main.js.map": "/Kateryna-Vyshnevetska/goit-react-hw-06-phonebook-toolkit-/static/js/main.c096167a.chunk.js.map",
+    "runtime-main.js": "/Kateryna-Vyshnevetska/goit-react-hw-06-phonebook-toolkit-/static/js/runtime-main.3ac60eaa.js",
+    "runtime-main.js.map": "/Kateryna-Vyshnevetska/goit-react-hw-06-phonebook-toolkit-/static/js/runtime-main.3ac60eaa.js.map",
+    "static/js/2.58bcb095.chunk.js": "/Kateryna-Vyshnevetska/goit-react-hw-06-phonebook-toolkit-/static/js/2.58bcb095.chunk.js",
+    "static/js/2.58bcb095.chunk.js.map": "/Kateryna-Vyshnevetska/goit-react-hw-06-phonebook-toolkit-/static/js/2.58bcb095.chunk.js.map",
+    "index.html": "/Kateryna-Vyshnevetska/goit-react-hw-06-phonebook-toolkit-/index.html",
+    "precache-manifest.49e10ee629bd9cc40fe9d1864c7b1bd1.js": "/Kateryna-Vyshnevetska/goit-react-hw-06-phonebook-toolkit-/precache-manifest.49e10ee629bd9cc40fe9d1864c7b1bd1.js",
+    "service-worker.js": "/Kateryna-Vyshnevetska/goit-react-hw-06-phonebook-toolkit-/service-worker.js",
+    "static/css/main.3584b212.chunk.css.map": "/Kateryna-Vyshnevetska/goit-react-hw-06-phonebook-toolkit-/static/css/main.3584b212.chunk.css.map",
+    "static/js/2.58bcb095.chunk.js.LICENSE.txt": "/Kateryna-Vyshnevetska/goit-react-hw-06-phonebook-toolkit-/static/js/2.58bcb095.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ac60eaa.js",
+    "static/js/2.58bcb095.chunk.js",
+    "static/css/main.3584b212.chunk.css",
+    "static/js/main.c096167a.chunk.js"
+  ]
+}
